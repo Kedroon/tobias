@@ -1,0 +1,95 @@
+fileFormatVersion: 2
+guid: 128bfee34da1f5044855edb848a3da7e
+timeCreated: 1435309564
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: abrindo a boca-01 (1)_5
+    21300002: abrindo a boca-01 (1)_9
+    21300004: abrindo a boca-01 (1)_0
+    21300006: abrindo a boca-01 (1)_4
+    21300008: abrindo a boca-01 (1)_7
+    21300010: abrindo a boca-01 (1)_6
+    21300012: abrindo a boca-01 (1)_8
+    21300014: abrindo a boca-01 (1)_11
+    21300016: abrindo a boca-01 (1) 2_0
+    21300018: abrindo a boca-01 (1) 2_3
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 70
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: abrindo a boca-01 (1)_11
+      rect:
+        serializedVersion: 2
+        x: 3593
+        y: 60
+        width: 320
+        height: 355
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: abrindo a boca-01 (1) 2_0
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 54
+        width: 316
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: abrindo a boca-01 (1) 2_3
+      rect:
+        serializedVersion: 2
+        x: 2419
+        y: 64
+        width: 268
+        height: 353
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

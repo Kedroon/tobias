@@ -1,0 +1,48 @@
+C:\Users\Miguel\Documents\Tobias\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\Miguel\Documents\Tobias\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\Miguel\Documents\Tobias\Temp\bin\Debug\UnityEditor.dll
+C:\Users\Miguel\Documents\Tobias\Temp\bin\Debug\UnityEditor.iOS.Extensions.Xcode.dll
+C:\Users\Miguel\Documents\Tobias\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\Users\Miguel\Documents\Tobias\Temp\bin\Debug\UnityEngine.dll
+C:\Users\Miguel\Documents\Tobias\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\Miguel\Documents\Tobias\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\Miguel\Documents\Tobias\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\Miguel\Documents\Tobias\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\Miguel\Documents\Tobias\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\Miguel\Documents\Tobias\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\Miguel\Documents\Tobias\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\Miguel\Documents\Tobias\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\Miguel\Documents\Tobias\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\Miguel\Documents\Tobias\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\Miguel\Documents\Tobias\Temp\bin\Debug\UnityEngine.xml
+C:\Users\Miguel\Documents\Tobias\Temp\bin\Debug\UnityEditor.xml
+C:\Users\Miguel\Documents\Tobias\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\Miguel\Documents\Tobias\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\Miguel\Documents\Tobias\Temp\bin\Debug\UnityEngine.Analytics.xml
+C:\Users\Miguel\Documents\Tobias\obj\Debug\Assembly-CSharp-vs.csprojResolveAssemblyReference.cache
+C:\Users\Miguel\Documents\Tobias\obj\Debug\Assembly-CSharp.dll
+C:\Users\Miguel\Documents\Tobias\obj\Debug\Assembly-CSharp.pdb
+C:\Users\Miguel\Google Drive\Tobias\Tobias\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\Miguel\Google Drive\Tobias\Tobias\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\Miguel\Google Drive\Tobias\Tobias\Temp\bin\Debug\UnityEditor.dll
+C:\Users\Miguel\Google Drive\Tobias\Tobias\Temp\bin\Debug\UnityEditor.iOS.Extensions.Xcode.dll
+C:\Users\Miguel\Google Drive\Tobias\Tobias\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\Users\Miguel\Google Drive\Tobias\Tobias\Temp\bin\Debug\UnityEngine.dll
+C:\Users\Miguel\Google Drive\Tobias\Tobias\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\Miguel\Google Drive\Tobias\Tobias\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\Miguel\Google Drive\Tobias\Tobias\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\Miguel\Google Drive\Tobias\Tobias\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\Miguel\Google Drive\Tobias\Tobias\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\Miguel\Google Drive\Tobias\Tobias\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\Miguel\Google Drive\Tobias\Tobias\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\Miguel\Google Drive\Tobias\Tobias\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\Miguel\Google Drive\Tobias\Tobias\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\Miguel\Google Drive\Tobias\Tobias\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\Miguel\Google Drive\Tobias\Tobias\Temp\bin\Debug\UnityEngine.xml
+C:\Users\Miguel\Google Drive\Tobias\Tobias\Temp\bin\Debug\UnityEditor.xml
+C:\Users\Miguel\Google Drive\Tobias\Tobias\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\Miguel\Google Drive\Tobias\Tobias\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\Miguel\Google Drive\Tobias\Tobias\Temp\bin\Debug\UnityEngine.Analytics.xml
+C:\Users\Miguel\Google Drive\Tobias\Tobias\obj\Debug\Assembly-CSharp-vs.csprojResolveAssemblyReference.cache
+C:\Users\Miguel\Google Drive\Tobias\Tobias\obj\Debug\Assembly-CSharp.dll
+C:\Users\Miguel\Google Drive\Tobias\Tobias\obj\Debug\Assembly-CSharp.pdb
