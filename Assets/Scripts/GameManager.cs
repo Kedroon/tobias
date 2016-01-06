@@ -2,6 +2,8 @@
 using System.Collections;
 using System.Collections.Generic; 
 using UnityEngine.UI;
+using UnityEngine.Analytics;
+using UnityEngine.SceneManagement;
 using Random = UnityEngine.Random; 
 public class GameManager : MonoBehaviour {
 
@@ -182,7 +184,8 @@ public class GameManager : MonoBehaviour {
 			StopCoroutine(coroutineobs1);
 
 			if (Input.GetKeyUp (KeyCode.Escape) && gameover.gameObject.activeSelf) {
-				Application.LoadLevel(0);
+				SceneManager.LoadScene (0);
+
 			}
 		}
 
@@ -272,6 +275,12 @@ public class GameManager : MonoBehaviour {
 			PlayerPrefs.SetInt("Player Score", Record.record);
 			PlayerPrefs.Save();
 		}
+		Analytics.CustomEvent("GameOver",new Dictionary<string,object>
+			{
+				{ "Points", Controller.feed }
+			});
+	
+		print ("oi");
 		recordGamerOver.text = Record.record.ToString ();
 		pontosGamerOver.text = Controller.feed.ToString();
 

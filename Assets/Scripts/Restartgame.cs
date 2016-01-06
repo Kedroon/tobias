@@ -1,11 +1,13 @@
 ﻿using UnityEngine;
 using System.Collections;
+using UnityEngine.SceneManagement;
 
 public class Restartgame : MonoBehaviour {
 
 	// Use this for initialization
 	public void Restartk(){
 
-		Application.LoadLevel ("Main");
+
+		SceneManager.LoadScene ("Main");
 	}
 }

@@ -1,20 +1,24 @@
 ﻿using UnityEngine;
 using System.Collections;
+using UnityEngine.SceneManagement;
 
-public class Botoes : MonoBehaviour {
+public class Botoes : MonoBehaviour
+{
 
 	// Use this for initialization
 
 	
 	// Update is called once per frame
-	public void Play () {
-		Application.LoadLevel ("Main"); 
+	public void Play ()
+	{
+		SceneManager.LoadScene ("Main"); 
 
 	}
 
-	public void Update(){
+	public void Update ()
+	{
 		if (Input.GetKeyUp (KeyCode.Escape)) {
-			Application.Quit();
+			Application.Quit ();
 		}
 	}
 
