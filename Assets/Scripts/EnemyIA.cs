@@ -14,7 +14,7 @@ public class EnemyIA : MonoBehaviour {
 	private bool parar;
 	public GameObject filho;
 	private float InicioChupo;
-	public float TerminarChupo;
+	private float TerminarChupo;
 	private IEnumerator coroutinedeath;
 	private bool vivo;
 	public LineRenderer LineofDeath;
@@ -42,7 +42,7 @@ public class EnemyIA : MonoBehaviour {
 		parar = true;
 		vivo = true; 
 		coroutinedeath = Death ();
-
+		TerminarChupo = 1.8f;
 
 	}
 
@@ -57,7 +57,7 @@ public class EnemyIA : MonoBehaviour {
 				Destroy (other.gameObject);
 				animator.SetTrigger ("comer");
 				CountComida++;
-				if (CountComida == 2 && !chupar) {
+				if (CountComida == 3 && !chupar) {
 					SpriteRenderer renderer = GetComponent<SpriteRenderer> ();
 					renderer.color = new Color (0.9f, 0.4f, 0.4f);
 					filho.SetActive (true);

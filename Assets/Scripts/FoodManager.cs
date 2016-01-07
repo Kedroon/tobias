@@ -14,8 +14,8 @@ public class FoodManager : MonoBehaviour {
 	void Awake () {
 	
 		coroutinespeed = Increasespeed ();
-		speedfood = 0.80f;
-		speedfoodlow = 0.4f;
+		speedfood = 0.4f;
+		speedfoodlow = 0.32f;
 		speedscrool = 2;
 		perc = 1f;
 
@@ -48,8 +48,8 @@ public class FoodManager : MonoBehaviour {
 			yield return new WaitForSeconds (14);
 			perc+=0.15f;
 			speedscrool=2f*perc;
-			speedfood=0.80f/perc;
-			speedfoodlow = 0.4f / perc;
+			speedfood=0.4f/perc;
+			speedfoodlow = 0.32f / perc;
 
 			
 			
