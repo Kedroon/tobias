@@ -45,7 +45,7 @@ public class FoodManager : MonoBehaviour {
 		
 		while (true) {
 			
-			yield return new WaitForSeconds (14);
+			yield return new WaitForSeconds (12);
 			perc+=0.15f;
 			speedscrool=2f*perc;
 			speedfood=0.4f/perc;

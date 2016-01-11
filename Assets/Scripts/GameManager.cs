@@ -280,7 +280,7 @@ public class GameManager : MonoBehaviour
 			onConsecutiveWins ();
 		}
 		yield return new WaitForSeconds (3f);
-		Controller.ShowAd ();
+		//Controller.ShowAd ();
 		gameover.gameObject.SetActive (true);
 		pontos.SetActive (false);
 		milho.SetActive (false);

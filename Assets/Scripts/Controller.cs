@@ -213,7 +213,7 @@ public class Controller : MonoBehaviour
 				voando = true;
 			}
 			//print (horizontal + " " + vertical);
-			move = move.normalized * speed * Time.deltaTime;
+			move = move * speed * Time.deltaTime;
 
 			//	bool voando = (horizontal != 0 || vertical != 0);
 			if (!voandoprasempre) {
@@ -325,9 +325,10 @@ public class Controller : MonoBehaviour
 	{
 
 		yield return new WaitForSeconds (0.225f);
-
-		UpdateSprites ();
-		animator.SetBool ("Voando", voandoprasempre);
+		if (vida) {
+			UpdateSprites ();
+			animator.SetBool ("Voando", voandoprasempre);
+		}
 	}
 
 
